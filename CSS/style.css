@@ -1,0 +1,43 @@
+li{
+display: inline;
+}
+.nav {
+float: right;
+}
+.buttons {
+	margin: auto;
+}
+div {
+	position: relative;
+}
+.logo {
+	top: 200px;
+  margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.buttons {
+	left: 53px;
+}
+ footer {
+ 	position: fixed;
+ 	bottom: 0px;
+ 	height: 40px;
+ 	width: 100%;
+ }
+ .right_bar{
+ 	display: inline;
+	float: right;
+	padding-right: 40px;
+ }
+ .left_bar{
+ 	display: inline;
+ 	float: left;
+
+ }
+ .left_bar li {
+ 	padding: 10px;
+ }
+ .right_bar li {
+ 	padding: 10px;
+ }
